@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tv_Kanal_ModelFirst", "Tv_Kanal_ModelFirst\Tv_Kanal_ModelFirst.csproj", "{68D2C47F-A737-4E03-B707-0E98AB55159B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68D2C47F-A737-4E03-B707-0E98AB55159B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D2C47F-A737-4E03-B707-0E98AB55159B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D2C47F-A737-4E03-B707-0E98AB55159B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D2C47F-A737-4E03-B707-0E98AB55159B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FE308B1-0281-4BF0-93C0-336FC33EF0D8}
+	EndGlobalSection
+EndGlobal

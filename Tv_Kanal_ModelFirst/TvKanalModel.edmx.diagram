@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e851c15da4454b958cb5786585d9d84a" Name="Diagram1" >
+        <EntityTypeShape EntityType="TvKanalModel.Kanal" Width="1.5" PointX="1.375" PointY="1.25" />
+        <EntityTypeShape EntityType="TvKanalModel.Yayin" Width="1.5" PointX="4.75" PointY="0.5" />
+        <AssociationConnector Association="TvKanalModel.KanalYayin" />
+        <EntityTypeShape EntityType="TvKanalModel.Sorumlu" Width="1.5" PointX="8.125" PointY="1.125" />
+        <AssociationConnector Association="TvKanalModel.YayinSorumlu" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
